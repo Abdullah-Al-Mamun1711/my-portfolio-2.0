@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.addEventListener("DOMContentLoaded", () => {
   const shortIntroElement = document.querySelector(".short-intro");
-  const fullText = "MechE, BUET • IBA-MBA, DU • President's Scout • Ex-Vice-President, BUETJS • Blood Donor";
+  const fullText = "URP, CUET • Member of Notre Dame Math Club • Member of Notre Dame Science Club ";
   let charIndex = 0;
   const typingSpeed = 50; // Typing speed in ms per character
 
@@ -76,7 +76,7 @@ const words = [
   { text: "A Believer", color: "#00007B" },
   { text: "A Learner", color: "#169873" },
   { text: "An Adventurer", color: "#669bbc" },
-  { text: "An Engineer", color: "#A167A5" }
+  { text: "A Planner", color: "#A167A5" }
 ];
 
 let currentWordIndex = 0;
